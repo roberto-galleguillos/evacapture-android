@@ -1,0 +1,50 @@
+# Secrets / local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.*
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+coverage/
+
+# Java
+**/target/
+
+# Android / Gradle
+*.iml
+.gradle/
+/local.properties
+/captures/
+.cxx/
+**/build/
+*.apk
+*.aab
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data / generated
+pg_data/
+geoserver_data/
+uploads/
+*.log

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/text_add_ramo_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_ramo_title"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/textColorPrimary"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/edit_text_ramo_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ramo_name_hint"
+        android:textColor="#000000"
+        android:backgroundTint="@color/colorAccent"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:inputType="text" />
+
+    <RadioGroup
+        android:id="@+id/radio_group_ramo_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radio_theory_only"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+        android:text="@string/theory_only"
+        android:checked="true"
+        android:padding="8dp"/>
+
+        <RadioButton
+            android:id="@+id/radio_theory_and_lab"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+        android:text="@string/theory_and_lab"
+        android:padding="8dp"/>
+    </RadioGroup>
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="calendar_text">Calendario</string>
+    <string name="courses_text">Ramos</string>
+    <string name="settings_description">Configuración</string>
+    <string name="app_name">EvaCapture</string>
+    <string name="owner_text">\@Galeca</string>
+    <string name="back_description">Volver</string>
+    <string name="calendar_title">Calendario</string>
+    <string name="ramos_title">Ramos</string>
+    <string name="add_ramo">Añadir Ramo</string>
+    <string name="ramo_example_text">Ejemplo de Ramo</string>
+    <string name="add_ramo_title">Añadir Ramo</string>
+    <string name="ramo_name_hint">Nombre del ramo</string>
+    <string name="add_button_text">Añadir</string>
+    <string name="clear_list">Vaciar lista</string>
+    <string name="theory_only">Solo Teoría</string>
+    <string name="theory_and_lab">Teoría y Laboratorio</string>
+    <string name="notas_title">Notas</string>
+    <string name="theory_notes">Notas Teoría</string>
+    <string name="lab_notes">Notas Laboratorio</string>
+    <string name="theory_percentage_hint">Porcentaje Teoría</string>
+    <string name="lab_percentage_hint">Porcentaje Laboratorio</string>
+
+</resources>
