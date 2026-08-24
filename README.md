@@ -1,6 +1,6 @@
 # EvaCapture
 
-> 🕓 **Origen:** proyecto desarrollado en septiembre de 2024, bajo una cuenta de GitHub institucional de la Universidad de Santiago de Chile (USACH) usada durante mis estudios de pregrado. Este repositorio es una edición de portafolio, migrada y curada de ese proyecto original, con historial nuevo. Republicada en mi cuenta personal en agosto de 2026.
+> **Origen:** proyecto desarrollado en septiembre de 2024, bajo una cuenta de GitHub institucional de la Universidad de Santiago de Chile (USACH) usada durante mis estudios de pregrado. Este repositorio es una edición de portafolio, migrada y curada de ese proyecto original, con historial nuevo. Republicada en mi cuenta personal en agosto de 2026.
 
 Aplicación Android nativa en Kotlin para organización académica personal: registro de ramos, cálculo de nota final por porcentaje de teoría y laboratorio, y una pantalla de calendario en desarrollo.
 
